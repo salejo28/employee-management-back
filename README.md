@@ -3,7 +3,7 @@
 ## Clona el repositorio
 
 ```sh
-git clone 
+git clone https://github.com/salejo28/employee-management-back.git
 ```
 
 ## Navega al repositorio
